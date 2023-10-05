@@ -129,5 +129,3 @@ The performances of R-CodeEdge, R-SibEdge, R-DFG, R-Het and V-AST illustrate the
 ![case_java](https://github.com/GJCEXP/IMG/blob/main/HETCOS_IMG/case_java.png)
 
 ![case_python](https://github.com/GJCEXP/IMG/blob/main/HETCOS_IMG/case_python.png)
-
-***This paper is still under review, please do not distribute it.***
